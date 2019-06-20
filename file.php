@@ -1,4 +1,6 @@
 <php
-$s = "Mid Kakas";
+$s = "Mid Kakas perangkat Lunak";
+$t = "Hari Ini"
+ 
 echo $s;
 >
